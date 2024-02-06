@@ -1,2 +1,2 @@
-# supabase-ruby
+# supabase-ruby gem
 Supabase Client with Ruby
